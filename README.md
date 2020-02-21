@@ -1,6 +1,15 @@
 # shop_app
 
-A new shop application.
+Shop ui design writed with flutter.
+
+
+## Screenshots
+
+
+<img src="ss/ss1.png" alt="photo" width="300">
+<img src="ss/ss2.png" alt="photo" width="300">
+<img src="ss/ss3.png" alt="photo" width="300">
+<img src="ss/ss4.png" alt="photo" width="300">
 
 ## Getting Started
 
